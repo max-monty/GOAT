@@ -1,4 +1,4 @@
-# GOAT
+# goat
 
 [Michael Nielson's Writing](https://michaelnielsen.org/)
 
