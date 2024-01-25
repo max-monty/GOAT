@@ -1,6 +1,10 @@
-# goat
+# GOAT: Greatest Resources, Links, Tools, and Miscellanea of All Time
 
-[Michael Nielson's Writing](https://michaelnielsen.org/)
-
-Andrej Karpathy's [videos](https://www.youtube.com/@AndrejKarpathy) and other [content](https://karpathy.ai/)
+### People
+- [Michael Nielson](https://michaelnielsen.org/): AI, quantum computing, tools for thought
+- [Andrej Karpathy](https://karpathy.ai/): AI, programming
+  
+### Courses
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 
