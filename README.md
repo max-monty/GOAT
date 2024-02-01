@@ -3,6 +3,7 @@
 ### People
 - [Michael Nielson](https://michaelnielsen.org/): AI, quantum computing, tools for thought
 - [Andrej Karpathy](https://karpathy.ai/): AI, programming
+- [Vitalik Buterin](https://vitalik.eth.limo/index.html): Crypto, tech, misc
   
 ### Courses
 #### Programming Fundamentals
