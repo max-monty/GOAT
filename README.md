@@ -24,3 +24,7 @@
 ### Misc
 - [a16z AI Canon](https://a16z.com/ai-canon/)
 - [a16z Crypto Canon](https://a16z.com/crypto-canon/)
+
+### Online Textbooks
+- [Python for Data Analysis](https://wesmckinney.com/book/preface)
+- [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
