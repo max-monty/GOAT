@@ -28,3 +28,10 @@
 ### Online Textbooks
 - [Python for Data Analysis](https://wesmckinney.com/book/preface)
 - [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+
+### Free Content
+- [Audiobook Bay](https://audiobookbay.lu/): audiobooks
+  - magnet:?xt=urn:btih:INFO_HASH_HERE
+- [Libgen](libgen.rs): ebooks
+- [Librivox](https://librivox.org/): audiobooks
+- [Open Culture](https://www.openculture.com/freeaudiobooks): audiobooks
